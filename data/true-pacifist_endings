@@ -1,0 +1,44 @@
+{
+  "families": [
+    {
+      "name": "True Pacifist Ending",
+
+      "endings": [
+        {
+          "id": "true-pacifist_ending_65",
+          "number": 65,
+          "modifiers": [
+            "w/ Erase"
+          ]
+        },
+        {
+          "id": "true-pacifist_ending_66",
+          "number": 66,
+          "modifiers": [
+            "w/o Erase"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soulless Pacifist",
+
+      "endings": [
+        {
+          "id": "true-pacifist_ending_67",
+          "number": 67,
+          "modifiers": [
+            "w/ Erase"
+          ]
+        },
+        {
+          "id": "true-pacifist_ending_68",
+          "number": 68,
+          "modifiers": [
+            "w/o Erase"
+          ]
+        }
+      ]
+    }
+  ]
+}
