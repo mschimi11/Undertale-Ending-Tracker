@@ -1,0 +1,46 @@
+{
+  "families": [
+    {
+      "name": "Hard Mode",
+
+      "endings": [
+        {
+          "id": "hard-mode_ending_1",
+          "number": 1,
+          "modifiers": [
+            "w/ Toriel"
+          ]
+        },
+        {
+          "id": "hard-mode_ending_3",
+          "number": 3,
+          "modifiers": [
+            "w/o Toriel"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hard Mode Betrayal Kill",
+
+      "endings": [
+        {
+          "id": "hard-mode_ending_2",
+          "number": 2,
+          "modifiers": []
+        }
+      ]
+    },
+    {
+      "name": "Hard Mode Genocide",
+
+      "endings": [
+        {
+          "id": "hard-mode_ending_4",
+          "number": 4,
+          "modifiers": []
+        }
+      ]
+    }
+  ]
+}

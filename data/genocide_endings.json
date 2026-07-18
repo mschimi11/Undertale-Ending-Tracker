@@ -1,0 +1,44 @@
+{
+  "families": [
+    {
+      "name": "Genocide Ending",
+
+      "endings": [
+        {
+          "id": "genocide_ending_90",
+          "number": 90,
+          "modifiers": [
+            "w/ Erase"
+          ]
+        },
+        {
+          "id": "genocide_ending_91",
+          "number": 91,
+          "modifiers": [
+            "w/o Erase"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Soulless Genocide",
+
+      "endings": [
+        {
+          "id": "genocide_ending_92",
+          "number": 92,
+          "modifiers": [
+            "w/ Erase"
+          ]
+        },
+        {
+          "id": "genocide_ending_93",
+          "number": 93,
+          "modifiers": [
+            "w/o Erase"
+          ]
+        }
+      ]
+    }
+  ]
+}

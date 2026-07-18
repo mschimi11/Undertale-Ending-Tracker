@@ -1,0 +1,532 @@
+{
+  "branches": [
+    {
+      "name": "Exiled Queen",
+      
+      "families": [
+        {
+          "name": "Exiled Queen",
+          "endings": [
+            {
+              "id": "neutral_exiled-queen_ending_5",
+              "number": 5,
+              "modifiers": [
+                "w/o Papyrus",
+                "w/o Undyne"
+              ],
+              "extras": []
+            },
+            {
+              "id": "neutral_exiled-queen_ending_6",
+              "number": 6,
+              "modifiers": [
+                "w/o Papyrus",
+                "w/o Alphys"
+              ],
+              "extras": []
+            },
+            {
+              "id": "neutral_exiled-queen_ending_7",
+              "number": 7,
+              "modifiers": [
+                "w/o Papyrus"
+              ],
+              "extras": []
+            },
+            {
+              "id": "neutral_exiled-queen_ending_12",
+              "number": 12,
+              "modifiers": [
+                "w/o Undyne"
+              ],
+              "extras": [
+                {
+                  "id": "w/o Consumables",
+                  "number": 8
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 9
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 10
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 11
+                }
+              ]
+            },
+            {
+              "id": "neutral_exiled-queen_ending_13",
+              "number": 13,
+              "modifiers": [
+                "w/o Papyrus",
+                "w/o Undyne",
+                "w/ 10 Kills"
+              ],
+              "extras": []
+            },
+            {
+              "id": "neutral_exiled-queen_ending_14",
+              "number": 14,
+              "modifiers": [
+                "w/o Papyrus",
+                "w/o Alphys",
+                "w/ 10 Kills"
+              ],
+              "extras": []
+            },
+            {
+              "id": "neutral_exiled-queen_ending_15",
+              "number": 15,
+              "modifiers": [
+                "w/o Papyrus",
+                "w/ 10 Kills"
+              ],
+              "extras": []
+            },
+            {
+              "id": "neutral_exiled-queen_ending_20",
+              "number": 20,
+              "modifiers": [
+                "w/o Undyne",
+                "w/ 10 Kills"
+              ],
+              "extras": [
+                {
+                  "id": "w/o Consumables",
+                  "number": 16
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 17
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 18
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 19
+                }
+              ]
+            },
+            {
+              "id": "neutral_exiled-queen_ending_25",
+              "number": 25,
+              "modifiers": [],
+              "extras": [
+                {
+                  "id": "w/o Consumables",
+                  "number": 21
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 22
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 23
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 24
+                }
+              ]
+            },
+            {
+              "id": "neutral_exiled-queen_ending_30",
+              "number": 30,
+              "modifiers": [
+                "w/o Alphys"
+              ],
+              "extras": [
+                {
+                  "id": "w/o Consumables",
+                  "number": 26
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 27
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 28
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 29
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flawed Pacifist",
+
+      "families": [
+        {
+          "name": "Betrayed Undyne",
+          "endings": [
+            {
+              "id": "neutral_flawed-pacifist_ending_36",
+              "number": 36,
+              "modifiers": [],
+              "extras": [
+                {
+                  "id": "w/ Challenge",
+                  "number": 31
+                },
+                {
+                  "id": "w/o Consumables",
+                  "number": 32
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 33
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 34
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 35
+                }
+              ]
+            },
+            {
+              "id": "neutral_flawed-pacifist_ending_41",
+              "number": 41,
+              "modifiers": [
+                "w/o Alphys"
+              ],
+              "extras": [
+                {
+                  "id": "w/o Consumables",
+                  "number": 37
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 38
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 39
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 40
+                }
+              ]
+            },
+            {
+              "id": "neutral_flawed-pacifist_ending_47",
+              "number": 47,
+              "modifiers": [
+                "w/ Date"
+              ],
+              "extras": [
+                {
+                  "id": "w/ Challenge",
+                  "number": 42
+                },
+                {
+                  "id": "w/o Consumables",
+                  "number": 43
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 44
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 45
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 46
+                }
+              ]
+            },
+            {
+              "id": "neutral_flawed-pacifist_ending_52",
+              "number": 52,
+              "modifiers": [
+                "w/ Date",
+                "w/o Alphys"
+              ],
+              "extras": [
+                {
+                  "id": "w/o Consumables",
+                  "number": 48
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 49
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 50
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 51
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Family Ending",
+
+          "endings": [
+            {
+              "id": "neutral_flawed-pacifist_ending_58",
+              "number": 58,
+              "modifiers": [
+                "w/o Alphys"
+              ],
+              "extras": [
+                {
+                  "id": "w/ Challenge",
+                  "number": 53
+                },
+                {
+                  "id": "w/o Consumables",
+                  "number": 54
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 55
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 56
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 57
+                }
+              ]
+            },
+            {
+              "id": "neutral_flawed-pacifist_ending_64",
+              "number": 64,
+              "modifiers": [
+                "w/ Alphys"
+              ],
+              "extras": [
+                {
+                  "id": "w/ Challenge",
+                  "number": 59
+                },
+                {
+                  "id": "w/o Consumables",
+                  "number": 60
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 61
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 62
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 63
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Undyne Branch",
+
+      "families": [
+        {
+          "name": "Undyne Ending",
+          "endings": [
+            {
+              "id": "neutral_undyne_ending_73",
+              "number": 73,
+              "modifiers": [
+                "w/ Papyrus"
+              ],
+              "extras": [
+                {
+                  "id": "w/o Consumables",
+                  "number": 69
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 70
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 71
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 72
+                }
+              ]
+            },
+            {
+              "id": "neutral_undyne_ending_74",
+              "number": 74,
+              "modifiers": [
+                "w/o Papyrus"
+              ],
+              "extras": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mettaton Branch",
+
+      "families": [
+        {
+          "name": "Mettaton Ending",
+          "endings": [
+            {
+              "id": "neutral_mettaton_ending_79",
+              "number": 79,
+              "modifiers": [
+                "w/ Papyrus"
+              ],
+              "extras": [
+                {
+                  "id": "w/o Consumables",
+                  "number": 75
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 76
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 77
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 78
+                }
+              ]
+            },
+            {
+              "id": "neutral_mettaton_ending_80",
+              "number": 80,
+              "modifiers": [
+                "w/o Papyrus"
+              ],
+              "extras": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Papyrus Branch",
+
+      "families": [
+        {
+          "name": "Papyrus Ending",
+          "endings": [
+            {
+              "id": "neutral_papyrus_ending_85",
+              "number": 85,
+              "modifiers": [],
+              "extras": [
+                {
+                  "id": "w/o Consumables",
+                  "number": 81
+                },
+                {
+                  "id": "w/ Bandage",
+                  "number": 82
+                },
+                {
+                  "id": "w/o Saving",
+                  "number": 83
+                },
+                {
+                  "id": "w/ Snowman Piece",
+                  "number": 84
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dog Branch",
+
+      "families": [
+        {
+          "name": "Dog Ending",
+          "endings": [
+            {
+              "id": "neutral_dog_ending_86",
+              "number": 86,
+              "modifiers": [],
+              "extras": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leaderless Branch",
+
+      "families": [
+        {
+          "name": "No King Ending",
+          "endings": [
+            {
+              "id": "neutral_leaderless_ending_87",
+              "number": 87,
+              "modifiers": [],
+              "extras": []
+            },
+            {
+              "id": "neutral_leaderless_ending_88",
+              "number": 88,
+              "modifiers": [
+                "w/ 20 Kills"
+              ],
+              "extras": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alphys Branch",
+
+      "families": [
+        {
+          "name": "Alphys Ending",
+          "endings": [
+            {
+              "id": "neutral_alphys_ending_89",
+              "number": 89,
+              "modifiers": [],
+              "extras": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

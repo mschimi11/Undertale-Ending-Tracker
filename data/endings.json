@@ -1,0 +1,16 @@
+{
+  "routes": {
+    "true-pacifist": {
+        "name": "True Pacifist"
+    },
+    "genocide": {
+      "name": "Genocide"
+    },
+    "hard-mode": {
+      "name": "Hard Mode"
+    },
+    "neutral": {
+      "name": "Neutral"
+    }
+  }
+}
